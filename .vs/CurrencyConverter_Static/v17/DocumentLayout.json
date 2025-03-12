@@ -54,8 +54,7 @@
               "RelativeToolTip": "CurrencyConverter_Static\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T08:13:40.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T08:13:40.005Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\dev\\C#_projects\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CurrencyConverter_Static\\MainWindow.xaml",
-              "ToolTip": "C:\\dev\\C#_projects\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml",
-              "RelativeToolTip": "CurrencyConverter_Static\\MainWindow.xaml",
+              "ToolTip": "C:\\dev\\C#_projects\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml*",
+              "RelativeToolTip": "CurrencyConverter_Static\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-12T08:11:03.293Z",
               "EditorCaption": ""
@@ -101,7 +100,7 @@
               "RelativeDocumentMoniker": "CurrencyConverter_Static\\MainWindow.xaml.cs",
               "ToolTip": "C:\\dev\\C#_projects\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml.cs",
               "RelativeToolTip": "CurrencyConverter_Static\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAIAgwCcAAAAAAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAIAhwDgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T08:11:02.733Z",
               "EditorCaption": ""
