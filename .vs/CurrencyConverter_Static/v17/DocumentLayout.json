@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +39,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
             },
             {
               "$type": "Bookmark",
@@ -100,7 +104,7 @@
               "RelativeDocumentMoniker": "CurrencyConverter_Static\\MainWindow.xaml.cs",
               "ToolTip": "C:\\dev\\C#_projects\\CurrencyConverter_Static\\CurrencyConverter_Static\\MainWindow.xaml.cs",
               "RelativeToolTip": "CurrencyConverter_Static\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAIAhwDgAAAAIAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAIA3wH0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T08:11:02.733Z",
               "EditorCaption": ""

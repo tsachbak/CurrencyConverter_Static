@@ -98,9 +98,14 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\delete_icon.png" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\convert_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\edit_icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
