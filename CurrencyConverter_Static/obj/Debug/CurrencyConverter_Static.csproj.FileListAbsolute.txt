@@ -17,3 +17,6 @@ C:\dev\C#_projects\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\F
 C:\dev\C#_projects\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\FontAwesome.WPF.xml
 C:\dev\C#_projects\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\Currency.33544220.Up2Date
 C:\dev\C#_projects\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\App.baml
+C:\dev\C#_projects\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\DataBase\CurrencyConverter.mdf
+C:\dev\C#_projects\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\DataBase\CurrencyConverter_log.ldf
+C:\dev\C#_projects\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static_Content.g.cs

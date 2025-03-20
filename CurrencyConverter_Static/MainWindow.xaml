@@ -145,7 +145,7 @@
                 </StackPanel>
 
                 <StackPanel Grid.Row="2" Height="100" Width="1000" Orientation="Horizontal" VerticalAlignment="Center">
-                    <Button Name="Save" Height="40" Width="150" Content="Save" Click="Save_Click" 
+                    <Button Name="btnSave" Height="40" Width="150" Content="Save" Click="btnSave_Click" 
                             Margin="350 0 20 0" Style="{StaticResource ButtonRound}">
                         <Button.Background>
                             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
@@ -154,7 +154,7 @@
                             </LinearGradientBrush>
                         </Button.Background>
                     </Button>
-                    <Button Name="cancel" Height="40" Width="150" Content="Cancel" Click="Cancel_Click" 
+                    <Button Name="btnCancel" Height="40" Width="150" Content="Cancel" Click="btnCancel_Click" 
                             Margin="0 0 20 0" Style="{StaticResource ButtonRound}">
                         <Button.Background>
                             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
@@ -194,12 +194,11 @@
                             </DataGridTemplateColumn>
 
                             <DataGridTextColumn x:Name="Amount" Header="Amount" Width="100" CanUserResize="False"
-                                                CanUserReorder="False" Binding="{Binding Path=Amount}"
-                                                IsReadOnly="True"/>
+                                                CanUserReorder="False" Binding="{Binding Path=[Amount]}" IsReadOnly="True"/>
 
                             <DataGridTextColumn x:Name="CurrencyName" Header="Currency Name" Width="*" MinWidth="20"
                                                 CanUserResize="False" CanUserReorder="False" IsReadOnly="True"
-                                                Binding="{Binding Path=CurrencyName}"/>
+                                                Binding="{Binding Path=[CurrencyName]}"/>
 
                         </DataGrid.Columns>
                     </DataGrid>
